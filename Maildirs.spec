@@ -6,8 +6,8 @@ Sur::Specification.new do |s|
   s.name        = "Maildirs"
   s.version     = "0.2"
   s.tags        = [ "Mail", "Icon" ]
-  s.files       = [ "maildirs.rb" ]
-  s.icons       = [ "mail.xbm" ]
+  s.files       = [ "Maildirs.rb" ]
+  s.icons       = [ "icons/mail.xbm" ]
 
   # Sublet description
   s.description = "Display unread mailcount in specified Maildirs"
